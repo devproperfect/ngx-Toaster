@@ -97,8 +97,4 @@ export class AppComponent {
 
 ```
 
-# Credits
-Inspired by [angular-toasty](https://github.com/teamfa/angular-toasty)
 
-# License
- [MIT](/LICENSE)
